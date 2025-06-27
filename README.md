@@ -26,15 +26,15 @@ The goal of this project is to create a simple and effective diabetes prediction
 ## Project Structure
 
 DiabetesPredictionSystem/
-├── app.py
-├── predictor.py
+├── app.py                         
+├── predictor.py                    
 ├── model/
-│ ├── logistic_regression_model.joblib
-│ ├── scaler.joblib
-│ └── column_names.joblib
-├── diabetes.csv 
-├── requirements.txt 
-└── README.md
+│   ├── logistic_regression_model.joblib  
+│   ├── scaler.joblib                      
+│   └── column_names.joblib              
+├── diabetes.csv                     
+├── requirements.txt             
+└── README.md      
 
 
 ## How to Run Locally
